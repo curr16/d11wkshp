@@ -26,6 +26,4 @@ public class D11wkshpApplication {
 		app.run(args);
 	}
 
-	}
-
 }
